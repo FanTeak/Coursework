@@ -1,0 +1,6 @@
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.vcxprojAssemblyReference.cache
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.Age.resources
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.MyForm.resources
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.Result.resources
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.vcxproj.GenerateResource.cache
+C:\Users\dutch\source\3 term\Coursework\Debug\Coursework.exe
